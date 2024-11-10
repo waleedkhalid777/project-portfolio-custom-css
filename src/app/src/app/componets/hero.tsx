@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import Typewriter from 'typewriter-effect'
+
 
 const Hero = () => {
   return (
@@ -13,8 +13,8 @@ const Hero = () => {
 
 
         <h1> 
-        <Typewriter options={{ strings: [ 'HI', 'IAM WALEED KHALID'], autoStart: true, loop: true }} 
-        />
+        HI' IAM WALEED KHALID
+        
         </h1>
         <p>I’m a web developer passionate about creating beautiful and functional user experiences.
           
